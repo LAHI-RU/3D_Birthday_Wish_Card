@@ -1,6 +1,7 @@
 body {
   height: 100%;
   padding: 70px;
+  background-color: #331717;
   background-repeat: no-repeat;
   background-attachment: fixed;
   font-family: Arial, Helvetica, sans-serif;
@@ -18,14 +19,13 @@ body {
       rgba(255, 255, 255),
       rgba(255, 255, 255, 0.5)
     ),
-    url("https://bit.ly/465NgNX");
+    url("https://bit.ly/465NgNX"); /* enter your own image */
 
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #e6f0e6;
 }
-
 .card .text-container {
   width: 80%;
   height: 80%;
